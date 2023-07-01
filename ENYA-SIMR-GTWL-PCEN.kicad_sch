@@ -1857,7 +1857,7 @@
     )
   )
 
-  (symbol (lib_id "ENYA_Diode_Rectifier:1N4148W-7-F_SOD-123") (at 248.92 129.54 180) (unit 1)
+  (symbol (lib_id "ENYA_Diode_Rectifier:1N4148W-7-F_SOD-123") (at 248.92 129.54 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 3a65faa8-a88d-43e8-a3b6-5610a610e052)
     (property "Reference" "D1" (at 248.92 124.7154 0)
@@ -1866,7 +1866,7 @@
     (property "Value" "1N4148W-7-F" (at 248.92 126.7634 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Diode_SMD:D_SOD-123" (at 248.92 125.095 0)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 248.92 133.985 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://www.diodes.com/assets/Datasheets/ds30086.pdf" (at 248.92 129.54 0)
